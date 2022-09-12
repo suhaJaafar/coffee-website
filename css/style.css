@@ -253,6 +253,7 @@ section{
 .about .row .content h3{
     font-size: 3rem;
     color:#fff;
+    color:rgba(233,80,149,0.75);
 }
 
 .about .row .content p{
